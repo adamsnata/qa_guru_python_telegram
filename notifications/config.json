@@ -1,0 +1,17 @@
+{
+  "base": {
+    "logo": "",
+    "project":  "",
+    "environment": "PROD",
+    "comment": "For homework 12",
+    "reportLink": "",
+    "language": "en",
+    "allureFolder": "allure-results/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "6285754458:AAHo5SZncPgYMDiHsOu-PjGIYoNv3laA4gY",
+    "chat": "-1001865339983",
+    "replyTo": ""
+  }
+}
